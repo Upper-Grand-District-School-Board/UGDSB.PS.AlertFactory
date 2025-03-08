@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>UGDSB.PS.AlertFactory</id>
+    <version>0.1.0</version>
+    <authors>Jeremy Putman</authors>
+    <owners>Jeremy Putman</owners>
+    <projectUrl>https://github.com/Upper-Grand-District-School-Board/UGDSB.PS.AlertFactory</projectUrl>
+    <license type="expression">MIT</license>
+    <releaseNotes></releaseNotes>
+    <description>This is a series of cmdlets that are used by UGDSB for AlertFactory functions</description>
+    <copyright></copyright>
+    <tags></tags>
+  </metadata>
+</package>
